@@ -1,4 +1,4 @@
-# 🎥 Video de la práctica: [PEGAR AQUÍ EL ENLACE DEL VIDEO](https://ENLACE-DEL-VIDEO)
+# 🎥 Video de la práctica: https://youtu.be/_fSGHhyh1P4
 
 # Segundo Parcial: Infraestructura de red, servicios y hardening CIS
 
