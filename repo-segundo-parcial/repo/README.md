@@ -2,7 +2,7 @@
 
 # Segundo Parcial: Infraestructura de red, servicios y hardening CIS
 
-**Asignatura:** [completar] · **Estudiante:** [nombre] · **Matrícula:** [matrícula] · **Fecha:** [fecha]
+**Asignatura:** Seguridad de redes  · **Estudiante:** Lisbeth Gómez · **Matrícula:** 2025-0701 · **Fecha:** 13/11/2026
 
 ## 1. Propósito
 
